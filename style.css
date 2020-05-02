@@ -1,0 +1,198 @@
+#navbarDropdownMenuLink
+{
+    padding-right: 20px;
+    color:black;
+    font-weight:normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+.first_section{
+    background-color: #f9f9f9;
+}
+.home-item{
+    background-color: red;
+    border-radius: 10px;
+    margin-right: 5px;
+    text-align: center;
+}
+h1{
+    padding-top: 20px;
+    text-align:center;
+    margin-top: 10px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.favicon{
+    width: 50px;
+    margin-left: 50%;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+p{
+    font-family: 'Raleway', sans-serif;
+    text-align:justify;
+    color: #666666;
+    list-style: height 1.7em;;
+    font-size: 14px;
+}
+img{
+    width: 200px;
+}
+/* -----------Second Section Start-------------- */
+.second_section{
+    background-color:#316DC3;
+}
+.images
+{
+    width: 40px;
+    height: 40px;
+    margin-top: 50px;
+    max-width: fit-content;
+    margin: 60px 0px 10px 50%;
+}
+
+.sub_heading{
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+    text-transform:uppercase;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 5px;
+    font-weight: 1px;
+
+
+}
+/* -----------Second Section End-------------- */
+/* ---------------- Cards Section ------------------- */
+.card_section
+{
+    max-width: 100%;
+    height: 700px;
+}
+.col{
+    padding-top: 60px;
+}
+.card-body{
+    box-shadow: 10px 5px 20px 5px;
+    margin-bottom: 40px ;
+}
+.card-title{
+    text-transform: uppercase;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    color: #316DC3;
+}
+.card_image{
+    width: 40px;
+    height: 40px;
+    margin-top: 50px;
+    margin-left: 50%;
+    margin-top: 10px;
+}
+.card-title{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+}
+.third_section
+{
+    background-color: #f9f9f9;
+    width: 100%;
+}
+/* ---------------------4th Section ------------------ */
+.mission_heading{
+    color:#316DC3;
+    font-family: 'Oswald', sans-serif;
+}
+.project_section{
+    text-transform: uppercase;
+    font-size: 20px;
+    background-color:#dddddd;
+    margin: 10px;
+    width: 100%;
+    height: 70px;
+}
+.forth_category{
+    border: 1px;
+    padding: 10px 10px 20px 5px;
+    display:inline-block;
+    height: 80px;
+    margin: 20px 5px 10px 20px;
+    width: 100%;
+}
+.h5{
+    text-transform: uppercase;
+    font-weight: 50px;
+    color: #316DC3;
+    margin-top: 20px;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    
+}
+.project_image{
+    width: 50px;
+}
+/* -----------------gallery section --------------------*/
+.gallery_section{
+    max-width: 100%;
+    max-height: 1200px;
+}
+.gallery_heading
+{
+    
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    
+}
+.gallery_image
+{
+    margin: 30px;
+    max-width: 100%;
+    width: 300px;
+}
+/* ---------------------- Footer Section ----------------------*/
+.footer_setion
+{
+background-color:darkslategrey;
+margin-top: 50px;
+height: 600px;
+}
+.head_office
+{
+    margin-top: 80px;
+    color:lightgrey;
+    font-size: 1em;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+}
+h6{
+    color: white;
+    font-size: 1em;
+}
+hr{
+    background-color: forestgreen;
+}
+.userful_links,.Contact
+{
+    margin-top: 80px;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 1px;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: bold;
+}
+.main_footer{
+    background-color: gainsboro;
+    max-width: 100%;
+    height: 60px;
+}
+.copyright{
+    margin-top: 20px;
+    font-style: normal;
+    font-family: serif;
+    font-weight: 1em
+}
